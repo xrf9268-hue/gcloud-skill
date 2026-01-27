@@ -1,6 +1,10 @@
 ---
 name: gcloud
-description: Google Cloud SDK (gcloud) CLI 命令参考指南。当用户询问 GCP、Google Cloud、gcloud 命令、云资源管理、虚拟机 VM、GKE Kubernetes、App Engine、Cloud Run、IAM 权限等相关问题时使用此 skill。
+description: Provides gcloud CLI commands and patterns for Google Cloud Platform. Use when answering questions about GCP services, creating cloud infrastructure, managing Kubernetes clusters (GKE), deploying serverless applications (Cloud Run, App Engine, Cloud Functions), handling IAM and authentication, or working with Cloud Storage and databases.
+allowed-tools: Bash(gcloud *, gsutil *)
+argument-hint: "[service-name or command]"
+user-invocable: true
+disable-model-invocation: false
 ---
 
 # gcloud CLI 命令参考
