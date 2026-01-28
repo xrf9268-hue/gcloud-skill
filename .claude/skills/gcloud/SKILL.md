@@ -453,3 +453,13 @@ gcloud COMMAND --verbosity=debug --log-http
 # 重新初始化
 gcloud init --console-only
 ```
+
+## 参考文档
+
+- [gcloud CLI 速查表](https://cloud.google.com/sdk/docs/cheatsheet) - 官方命令速查表
+- [gcloud CLI 概览](https://cloud.google.com/sdk/gcloud) - gcloud 命令行工具概览
+- [gcloud CLI 参考](https://cloud.google.com/sdk/gcloud/reference) - 完整命令参考文档
+- [Google Cloud SDK 安装指南](https://cloud.google.com/sdk/docs/install) - 安装和初始化
+- [gcloud 配置管理](https://cloud.google.com/sdk/docs/configurations) - 多配置管理指南
+- [gsutil 工具](https://cloud.google.com/storage/docs/gsutil) - Cloud Storage 命令行工具
+- [Google Cloud 免费层级](https://cloud.google.com/free) - 免费使用额度说明
